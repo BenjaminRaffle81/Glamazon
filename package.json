@@ -1,0 +1,16 @@
+{
+  "name": "Glamazon",
+  "version": "1.0.0",
+  "description": "The sexiest, most glam and fab e-commerce store in the world!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Benjamin Evelyn Robert Raffle, IV",
+  "license": "ISC",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "mysql": "^2.10.2",
+    "prompt": "^1.0.0"
+  }
+}
